@@ -1,0 +1,18 @@
+title: "Walter Holzwarth"
+email: your-email@domain.com
+description: "Golfprofessional aus Leidenschaft"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://walter-holzwarth.de"
+repository: "walter-holzwarth/walter-holzwarth.github.io"
+
+# Build settings
+future: true
+markdown: kramdown
+excerpt_separator: <!--more-->
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# SASS settings
+sass:
+  sass_dir: assets/css

@@ -1,0 +1,57 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "ugs-colors";
+
+h1 a { color: #d8d8d8; }
+
+header { min-width: 300px; }
+#banner, .wrapper {
+  min-width: 300px;
+  padding-right: 0;
+}
+
+// Fix horizontal position of buttons
+#banner #buttons {
+  position: fixed;
+  left: 50%;
+  margin-left: -325px;
+
+  @media print, screen and (max-width: 680px) {
+    position: relative;
+    left: 0;
+    margin-left: 10px;
+    white-space: nowrap;
+  }
+
+  @media print, screen and (max-width: 430px) {
+    overflow: hidden;
+  }
+}
+
+// Space li elements a little farther
+li { margin-bottom: 5px; }
+
+// Make images in main section drop a shadow
+section img {
+  -moz-box-shadow:    0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow:         0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+// Configure gallery images
+.gallery img {
+  width: 250px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+@media print, screen and (max-width: 480px) {
+  section { margin-top: 40px; }
+  #banner {
+    position: absolute;
+    display: block;
+    top: 58px;
+  }
+}
