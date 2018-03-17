@@ -1,0 +1,24 @@
+---
+---
+
+footer {
+  hr {
+    margin-top: 0;
+  }
+  p {
+    font-size: 75%;
+  }
+
+  a {
+    text-decoration: underline;
+    &:hover { text-decoration: none; }
+  }
+
+  .panel {
+    background-color: lighten(#F3BAAF, 10%);
+  }
+}
+
+hr {
+  border-color: #000;
+}

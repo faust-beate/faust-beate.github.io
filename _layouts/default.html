@@ -4,21 +4,7 @@
 <html class='no-js' lang='en'>
   <!-- <![endif] -->
   <head>
-    <meta charset='utf-8'>
-    <meta content='Zahnartztpraxis Dr. Faust' name='description'>
-    <meta content='Zahnartztpraxis Dr. Faust' name='publisher'>
-    <meta content='Zahnartztpraxis Dr. Faust' name='copyright'>
-    <meta content='Ganzheitliche Zahnartztpraxis Dr. Faust Ozontherapie Kiefergelenksdiagnostik Richtiger Biss Stoerfeldtherapie Herddiagnostik Amalgamsanierung Amalgamausleitung Kinesiologische Testung Kunststoffüberprüfung' name='keywords'>
-    <meta content='Zahnartztpraxis Dr. Faust' name='page-topic'>
-    <meta content='Alle' name='audience'>
-    <meta content='11 days' name='revisit-after'>
-    <meta content='INDEX,FOLLOW' name='robots'>
-    <meta content='initial-scale=1.0, width=device-width' name='viewport'>
-    <title>Dr. Beate Faust</title>
-    <link rel='stylesheet' href='/assets/application.css' />
-    <script src='/assets/application.js'></script>
-
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head.html %}
   </head>
   <body>
     <div class='fixed'>
@@ -32,7 +18,9 @@
       </div>
     </div>
     {% include footer.html %}
-    <script src='/assets/foundation.702ae592812dc0b00742b2fbe97e97fc.js'></script>
+    <script src="{{ '/assets/js/foundation.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/foundation.topbar.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/slick.js' | relative_url }}"></script>
     <script>
       $(document).foundation();
       $('.carousel').slick({

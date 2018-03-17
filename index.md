@@ -3,10 +3,10 @@ title: Herzlich Willkommen
 ---
 
 <div class="carousel">
-<div><img src="/images/thumb/carousell_06.jpg" /></div>
-<div><img src="/images/thumb/carousell_05.jpg" /></div>
-<div><img src="/images/thumb/carousell_01.jpg" /></div>
-<div><img src="/images/thumb/carousell_04.jpg" /></div>
+<div><img src="/assets/images/thumb/carousell_06.jpg" /></div>
+<div><img src="/assets/images/thumb/carousell_05.jpg" /></div>
+<div><img src="/assets/images/thumb/carousell_01.jpg" /></div>
+<div><img src="/assets/images/thumb/carousell_04.jpg" /></div>
 </div>
 
 # Herzlich Willkommen
