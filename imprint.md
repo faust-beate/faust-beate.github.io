@@ -1,25 +1,54 @@
 ---
-title: Impressum
 permalink: /imprint/
 ---
 
-## Anschrift
+# Kontakt & Anfahrt zur Praxis
 
-> Walter Holzwarth\\
-> Birkenweg 11\\
-> 83122 Samerberg
->
-> Telefon: +49 (0) 172 920 20 63\\
-> Email: walterholzwarth(at)web.de
+<div class="row">
+<div class="large-6 columns">
+<blockquote class="panel radius">
+<h5>Dr. med. dent. Beate Faust</h5>
+Zahnärztin <br />
+Fraunhoferstr. 23, 80469 München<br />
+Tel: 089/201 66 05 <br />
+Fax: 089/201 66 13<br />
+Homepage: <a href="/">www.faust-beate.de</a>
+</blockquote>
+</div>
+<div class="large-6 columns">
+<blockquote class="panel radius">
+<h5>Sprechstunden</h5>
+Montag        7.00 - 15.00 Uhr<br />
+Dienstag      7.00 - 18.00 Uhr<br />
+Mittwoch      7.00 - 13.00 Uhr<br />
+Donnerstag    7.00 - 16.00 Uhr <br />
+und nach Vereinbarung
+</blockquote>
+</div>
+</div>
 
-Um vor Spammail zu schützen, ist die Email-Adresse inaktiv. Ersetzen Sie (at) durch das @-Zeichen.
+## So kommen Sie am besten zu uns:
 
-## Verantwortung
+* U-Bahn: U1/U2/U7/U8 - Haltestelle Fraunhoferstr. 20 Meter zur Praxis
+* Bus: 131 Haltestelle Fraunhoferstr.
+* Tram: 27 Haltestelle Fraunhoferstr.
+* Parkmöglichkeit: öffentliche Parkplätze finden sich gegenüber der Praxis vor der Post
 
-Verantwortlich für den Inhalt: Walter Holzwarth
+# Impressum:
 
-## Copyright
-Sämtliche Texte, Grafiken und Bilder sind urheberrechtlich geschützt. Eine Verwendung ist nur mit ausdrücklicher Genehmigung zulässig.
+Das Teledienstegesetz (Par.6) erfordert ein Impressum bei gewerblichen Homepages mit folgende Angaben:
 
-## Haftungsausschluss
-Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Der Inhalt der Websites, auf die mittels Hypertext-Links oder in anderer Weise verwiesen wird, stammt nicht von uns, ist uns im einzelnen nicht bekannt und wird nicht zur Nutzung als eigener oder fremder Inhalt bereitgehalten. Wir übernehmen deshalb keine Verantwortung oder Gewähr für den Inhalt irgendeiner Website, auf die durch Hypertext-Links oder in anderer Weise verwiesen wird. Ein rechtsgeschäftlicher Wille ist mit der Bereitstellung solcher Verweise nicht verbunden.
+<blockquote>
+Dr. med. dent. Beate Faust Zahnärztin<br />
+Fraunhoferstr. 23, 80469 München<br />
+Tel: 089/201 66 05<br />
+Fax: 089/201 66 13<br />
+homepage: www.faust-beate.de
+</blockquote>
+
+Copyright für alle Bilder/Texte bei Dr. Beate Faust
+
+Verantwortlich für die Seiten und den Inhalt ist Zahnärztin Dr. Beate Faust, Fraunhoferstr.23, 80469 München, Tel.:089/2016605
+Kammerzugehörigkeit:zuständige Landeszahnärztekammer und Berufsordnung KZVB, Fallstr.34, 81369 München
+Titel verliehen in Deutschland.Berufsrechtliche Vorschriften www.kzvb.de.
+Für Verlinkungen keine Gewähr.

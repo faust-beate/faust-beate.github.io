@@ -1,7 +1,3 @@
----
-title: Herzlich Willkommen
----
-
 <div class="carousel">
 <div><img src="/assets/images/thumb/carousell_06.jpg" /></div>
 <div><img src="/assets/images/thumb/carousell_05.jpg" /></div>
