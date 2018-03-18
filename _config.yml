@@ -1,9 +1,9 @@
-title: "Walter Holzwarth"
+title: "Beate Faust"
 email: your-email@domain.com
-description: "Golfprofessional aus Leidenschaft"
+description: "Zahnartztpraxis Dr. Faust"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://walter-holzwarth.de"
-repository: "walter-holzwarth/walter-holzwarth.github.io"
+url: "http://faust-beate.github.io"
+repository: "faust-beate/faust-beate.github.io"
 
 # Build settings
 future: true
