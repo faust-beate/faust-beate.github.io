@@ -16,5 +16,3 @@ exclude:
 # SASS settings
 sass:
   sass_dir: assets/css
-
-theme: jekyll-theme-cayman
