@@ -3,6 +3,7 @@ permalink: /bleaching/
 ---
 
 # Bleaching
+
 ### Zehn Fragen - Zehn Antworten
 
 1. **Was ist Bleaching?**<br />
@@ -34,4 +35,3 @@ Eine regelmäßige und gründliche Mundhygiene ist unerlässlich, wenn man lange
 
 10. **Was kostet eine Bleachingbehandlung?**<br />
 Bitte fragen Sie dazu unsere Arzthelferinnen.
-
