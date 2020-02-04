@@ -22,7 +22,7 @@ Unsere moderne Ozonbehandlung bringt Ihnen viele Vorteile bei Ihren Gesundheitsp
 
 und in den meisten Fällen Verzicht auf Antibiotika.
 
-<video src="/movies/ozontherapie.mp4" controls="true" preload="true">
+<video src="/assets/movies/ozontherapie.mp4" controls="true" preload="true">
   Ihr Browser unterstützt leider kein HTML5 video element.
 </video>
 

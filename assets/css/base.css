@@ -16,3 +16,8 @@ img[src="/assets/images/thumb/headshot_09.jpg"], img[src="/assets/images/thumb/h
   width: 80%;
   margin: 20px auto;
 }
+
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
