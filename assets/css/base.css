@@ -20,4 +20,5 @@ img[src="/assets/images/thumb/headshot_09.jpg"], img[src="/assets/images/thumb/h
 video {
   width: 100%    !important;
   height: auto   !important;
+  margin: 20px auto;
 }
