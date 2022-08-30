@@ -28,4 +28,4 @@ Wenn Sie einen Termin nicht einhalten können, bitten wir Sie daher rechtzeitig 
 
 Fr. Gjini (im Bild, Prophylaxe) und Fr. Kleinert sind immer für Sie da und stehen Ihnen mit ihrem kompetenten Fachwissen gerne zur Seite.
 
-[![Prophylaxe](/assets/images/thumb/helper_01.jpg)](/assets/images/full/helper_01.jpg)
+[![Prophylaxe](/assets/images/thumb/helper_04.jpg)](/assets/images/full/helper_04.jpg)
