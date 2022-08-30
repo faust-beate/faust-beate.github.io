@@ -26,7 +26,6 @@ Wenn Sie einen Termin nicht einhalten können, bitten wir Sie daher rechtzeitig 
 
 ### Das Team der Praxis:
 
-Frau Dobler (im Bild links, Praxisorganisation) und Fr. Gjini (im Bild rechts, Prophylaxe) sind für Sie da und stehen Ihnen mit ihrem kompetenten Fachwissen gerne zur Seite.
+Fr. Gjini (im Bild, Prophylaxe) und Fr. Kleinert sind immer für Sie da und stehen Ihnen mit ihrem kompetenten Fachwissen gerne zur Seite.
 
 [![Prophylaxe](/assets/images/thumb/helper_01.jpg)](/assets/images/full/helper_01.jpg)
-[![Praxisorganisation](/assets/images/thumb/helper_04.jpg)](/assets/images/full/helper_04.jpg)
