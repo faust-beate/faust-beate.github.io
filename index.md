@@ -1,35 +1,17 @@
-<div class="carousel">
-<div><img src="/assets/images/thumb/carousell_06.jpg" /></div>
-<div><img src="/assets/images/thumb/carousell_05.jpg" /></div>
-<div><img src="/assets/images/thumb/carousell_01.jpg" /></div>
-<div><img src="/assets/images/thumb/carousell_04.jpg" /></div>
-</div>
+# Praxis geschlossen
 
-# Herzlich Willkommen
+Liebe Patienten,
 
-Herzlich willkommen auf den Internetseiten der Zahnarztpraxis Dr. med. dent. Beate Faust.
+die Praxis wird am 24.05.2023 geschlossen.
 
-Auf den folgenden Seiten stellen wir uns bei Ihnen vor und berichten aus aktuellen Themen wie der Zahnhygiene, Prophylaxe, Amalgamausleitung, Bleaching - rund um alle Themen für ein schönes Lächeln!
+Da ich leider keinen Nachfolger habe, kann ich nur eine Empfehlung aussprechen:
 
-Viel Spass beim Rundgang in der Praxis wünschen Ihnen Dr. med. dent. Beate Faust und das Praxisteam.
+<pre>
+Dr. Jauering
+Fraunhoferstr. 44
+Tel. 089/2012172
+</pre>
 
-Wir bieten folgenden Spezialservice an:
+Ich danke für Ihr langjähriges Vertrauen und wünsche Ihnen alles Gute. 
 
-* [DIR-System](/dir) (Vermessung des Kiefergelenks für einen sicheren Biß)
-* Ästhetische Zahnheilkunde
-* [Mundhygiene - Prophylaxe, Solo Prophylaxe](/health_tipps)
-* Implantate
-* [Amalgamentfernung mit Ausleitung](/detox)
-* Materialtestung
-* Homöopathie
-* Mundakupunktur
-* Störfeldtestung (Kinesiologisch)
-* [Ozontherapie](/ozontherapy)
-
-### Sprechstunden:
-
-> Montag        7.00 - 15.00 Uhr \\
-> Dienstag      7.00 - 18.00 Uhr \\
-> Mittwoch      7.00 - 13.00 Uhr \\
-> Donnerstag    7.00 - 16.00 Uhr \\
-> und nach Vereinbarung
+Dr. Beate Faust mit Team
