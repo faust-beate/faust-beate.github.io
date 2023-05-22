@@ -10,7 +10,7 @@ Da ich leider keinen Nachfolger habe, kann ich nur eine Empfehlung aussprechen:
 Dr. Jauering
 Fraunhoferstr. 44
 Tel. 089/2012172
-</pre><br><br>
+</pre><br>
 
 Ich danke für Ihr langjähriges Vertrauen und wünsche Ihnen alles Gute. 
 
