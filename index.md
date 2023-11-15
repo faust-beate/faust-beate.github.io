@@ -12,8 +12,14 @@ Willibaldstrasse 20<br>
 80689 München<br>
 Tel. 089/568080
 </blockquote>
-    
-Ab 15.11.2023 arbeite ich jeden Mittwoch bei Frau Dr. Florina Hammrich.
+
+bzw.
+
+<blockquote>
+Herr Dr. Jauering<br>
+Fraunhoferstr. 44<br>
+Tel. 089/2012172
+</blockquote>
 
 Mit freundlichen Grüßen 
 
