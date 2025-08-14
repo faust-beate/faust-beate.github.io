@@ -17,10 +17,7 @@ Inhaltlich Verantwortlich gemäß §5 TMG/§6 MDSTV
 
 <blockquote class="panel radius">
 Dr. med. dent. Beate Faust<br />
-Fraunhoferstr. 23<br />
-80469 München<br />
-Tel: 089/201 66 05 <br />
-Fax: 089/201 66 13<br />
+Tel: 0157 / 56643791<br />
 </blockquote>
 
 <blockquote class="panel radius">
