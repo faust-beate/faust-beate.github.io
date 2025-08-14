@@ -25,3 +25,5 @@ und in den meisten Fällen Verzicht auf Antibiotika.
 Das Ozon wirkt, partiell auf den Krankheitsherd angesetzt, absolut keimtötend - und das schmerzfrei und ohne Nebenwirkungen für Sie als Patient.
 
 Bakterien, Viren und Pilze wie z. B. schmerzhafte Entzündungen, Parodontose, Aphthen, Herpes und Zahnfleischbluten werden auf diese Weise in verblüffend kurzer Behandlungszeit ohne Belastung für den Patienten nachhaltig geheilt. Der Patient erfährt in der Regel bereits nach der ersten Behandlung eine spürbare Erleichterung, Ozon in medizinischer Dosierung verhindert mögliche Komplikationen nach chirurgischen Eingriffen. Resistenzen und Komplikationen, wie von Antibiotika bekannt, existieren nicht.
+
+Falls Sie Interesse an außergewöhnlichen Produkten für Ihre Mundgesundheit interessiert sind können Sie mich auch gerne unter der Tel Nummer oder E Mail erreichen.
