@@ -1,8 +1,8 @@
 title: "Beate Faust"
-email: your-email@domain.com
+email: dr.bfaust@gmx.de
 description: "Zahnartztpraxis Dr. Faust"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://faust-beate.github.io"
+url: "http://faust-beate.de"
 repository: "faust-beate/faust-beate.github.io"
 
 # Build settings
