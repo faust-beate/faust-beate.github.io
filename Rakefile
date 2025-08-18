@@ -9,7 +9,8 @@ task :serve do
   sh "serveit", "-s", "_site", "jekyll build --config _config.yml,_config.dev.yml"
 end
 
-task deploy: :build do
+task :deploy do
+  sh "jekyll", "build", "--config", "_config.yml"
   sh "ssh", "beate-faust-strato", "rm -rf ~/*"
   sh "scp", "-r", *Dir.glob("_site/*"), "beate-faust-strato:~"
 end
