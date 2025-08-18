@@ -11,7 +11,7 @@ end
 
 task deploy: :build do
   sh "ssh", "beate-faust-strato", "rm -rf ~/*"
-  sh "scp", "-r", *Dir.glob("_site/**/*"), "beate-faust-strato:~"
+  sh "scp", "-r", *Dir.glob("_site/**/*.*"), "beate-faust-strato:~"
 end
 
 task :clean do
