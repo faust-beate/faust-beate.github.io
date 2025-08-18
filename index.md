@@ -2,7 +2,7 @@
 
 Herzlich willkommen auf meiner Internetseite.
 
-![Dr. Beate Faust](/assets/images/thumb/headshot_10.jpg)
+![Dr. Beate Faust](/assets/images/thumb/headshot.jpg)
 
 Ab sofort kann ich Ihnen wieder Ozonbehandlungen in unterschiedlichen
 Praxen anbieten, da ich meine eigene Praxis aufgeben musste. Es gibt
