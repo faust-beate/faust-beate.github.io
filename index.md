@@ -2,7 +2,7 @@
 
 Herzlich willkommen auf meiner Internetseite.
 
-![Dr. Beate Faust](/assets/images/thumb/headshot.jpg)
+![Dr. Beate Faust](/images/thumb/headshot.jpg)
 
 Ab sofort kann ich Ihnen wieder Ozonbehandlungen in unterschiedlichen
 Praxen anbieten, da ich meine eigene Praxis aufgeben musste. Es gibt
@@ -13,7 +13,7 @@ geht. Bei Parodontoseproblemen kann Ozon helfen Zahnfleischtaschen zu
 beseitigen und die Regeneration des Zahnfleisches mit gleichzeitiger
 Zahnaufhellung zu fördern.
 
-<video src="/assets/movies/ozontherapie.mp4" controls="true" preload="true">
+<video src="/movies/ozontherapie.mp4" controls="true" preload="true">
   Ihr Browser unterstützt leider kein HTML5 video element.
 </video>
 
@@ -74,4 +74,4 @@ Falls Sie Interesse an außergewöhnlichen Produkten für Ihre
 Mundgesundheit interessiert sind können Sie mich auch gerne unter der
 Tel Nummer oder E Mail erreichen.
 
-[x-tipp]: /assets/images/full/x-tipp.jpg
+[x-tipp]: /images/full/x-tipp.jpg

@@ -1,12 +1,16 @@
+require_relative "lib/static_page_builder"
+
 # Default task is to build the site
 task default: :build
 
 task :build do
-  sh "jekyll", "build", "--config", "_config.yml,_config.dev.yml"
+  StaticPageBuilder
+    .new(__dir__)
+    .build_into(File.join(__dir__, "_site"))
 end
 
 task :serve do
-  sh "serveit", "-s", "_site", "jekyll build --config _config.yml,_config.dev.yml"
+  sh "serveit", "-s", "_site", "rake build"
 end
 
 task :deploy do
