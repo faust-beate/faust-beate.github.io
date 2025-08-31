@@ -13,8 +13,7 @@ task :serve do
   sh "serveit", "-s", "_site", "rake build"
 end
 
-task :deploy do
-  sh "jekyll", "build", "--config", "_config.yml"
+task deploy: :build do
   sh "ssh", "beate-faust-strato", "rm -rf ~/*"
   sh "scp", "-r", *Dir.glob("_site/*"), "beate-faust-strato:~"
 end
