@@ -1,0 +1,23 @@
+footer hr {
+  margin-top: 0;
+}
+
+footer p {
+  font-size: 75%;
+}
+
+footer a {
+  text-decoration: underline;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
+
+footer .panel {
+  background-color: #fae0db;
+}
+
+hr {
+  border-color: #000;
+}
