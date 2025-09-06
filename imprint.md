@@ -17,7 +17,9 @@ Inhaltlich Verantwortlich gemäß §5 TMG/§6 MDSTV
 
 <blockquote class="panel radius">
 Dr. med. dent. Beate Faust<br />
-Tel: 0157 / 56643791<br />
+c/o MDC Management #2430<br />
+Welsterstr. 3<br />
+87463 Dietmannsried<br />
 </blockquote>
 
 <blockquote class="panel radius">
