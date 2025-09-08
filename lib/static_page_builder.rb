@@ -30,6 +30,7 @@ class StaticPageBuilder
   def pagepath(filepath)
     filepath.sub(rootpath, "")
       .then { File.basename(_1, ".md") }
+      .then { _1.sub(/index$/, "") }
   end
 
   def templatepath
@@ -67,7 +68,8 @@ class Page
   end
 
   def render_to(destpath)
-    File.write(File.join(destpath, path + ".html"), render)
+    FileUtils.mkdir_p(File.join(destpath, path))
+    File.write(File.join(destpath, path, "index.html"), render)
   end
 
   def to_s = "<Page #{path}>"
