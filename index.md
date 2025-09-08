@@ -70,8 +70,4 @@ bekannt sind .Diese existieren bei der angegebenen Ozonbehandlung nicht.
 Gleichzeitig wirkt sich ein ausreichender Vitamin D und Magnesiumspiegel
 sehr unterstützend auf eine gute Heilung aus.
 
-Falls Sie Interesse an außergewöhnlichen Produkten für Ihre
-Mundgesundheit interessiert sind können Sie mich auch gerne unter der
-Tel Nummer oder E Mail erreichen.
-
 [x-tipp]: /images/full/x-tipp.jpg
