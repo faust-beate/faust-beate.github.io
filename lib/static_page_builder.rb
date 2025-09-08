@@ -1,4 +1,5 @@
 require "fileutils"
+require "pathname"
 require "tilt"
 require "tilt/slim"
 require "slim/include"
@@ -29,7 +30,7 @@ class StaticPageBuilder
 
   def pagepath(filepath)
     filepath.sub(rootpath, "")
-      .then { File.basename(_1, ".md") }
+      .then { Pathname(_1).sub_ext("") }
       .then { _1.sub(/index$/, "") }
   end
 
@@ -68,8 +69,9 @@ class Page
   end
 
   def render_to(destpath)
-    FileUtils.mkdir_p(File.join(destpath, path))
-    File.write(File.join(destpath, path, "index.html"), render)
+    File.join(destpath, path)
+      .tap { FileUtils.mkdir_p(_1) }
+      .tap { File.write(File.join(_1, "index.html"), render) }
   end
 
   def to_s = "<Page #{path}>"
