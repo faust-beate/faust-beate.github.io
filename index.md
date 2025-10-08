@@ -5,13 +5,12 @@ Herzlich willkommen auf meiner Internetseite.
 ![Dr. Beate Faust](/images/thumb/headshot.jpg)
 
 Ab sofort kann ich Ihnen wieder Ozonbehandlungen in unterschiedlichen
-Praxen anbieten, da ich meine eigene Praxis aufgeben musste. Es gibt
-sowohl die Ozonbehandlung für den gesamten Mundraum (bei
-Parodontoseproblemen) oder die Behandlung von Störfeldern im
-Kiefer (Nico) mit Ozon, das direkt mit dem Kieferknochen in Verbindung
-geht. Bei Parodontoseproblemen kann Ozon helfen Zahnfleischtaschen zu
-beseitigen und die Regeneration des Zahnfleisches mit gleichzeitiger
-Zahnaufhellung zu fördern.
+Praxen anbieten. Es gibt sowohl die Ozonbehandlung für den gesamten
+Mundraum (bei Parodontoseproblemen) oder die Behandlung von Störfeldern
+im Kiefer (Nico) mit Ozon, das direkt mit dem Kieferknochen in
+Verbindung geht. Bei Parodontoseproblemen kann Ozon helfen
+Zahnfleischtaschen zu beseitigen und die Regeneration des Zahnfleisches
+mit gleichzeitiger Zahnaufhellung zu fördern.
 
 <video src="/movies/ozontherapie.mp4" controls="true" preload="true">
   Ihr Browser unterstützt leider kein HTML5 video element.
