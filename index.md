@@ -16,8 +16,7 @@ mit gleichzeitiger Zahnaufhellung zu fördern.
   Ihr Browser unterstützt leider kein HTML5 video element.
 </video>
 
-Sie können mich unter der Telefonnummer 0157 / 56643791 (mit AB) oder per
-Mail unter Dr.BFaust@gmx.de erreichen.
+Sie können mich per Mail unter Dr.BFaust@gmx.de erreichen.
 
 Auf die Behandlung von Nico (neuralgisch induzierte Osteonekrose in
 Hohlräumen) habe ich mich spezialisiert.
